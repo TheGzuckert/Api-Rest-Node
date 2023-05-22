@@ -11,7 +11,7 @@
 - Vitest para realizar testes automatizados
 - Tsup Conversor de codigo de TS pra JS
 
-# Como colocar o projeto para funcionar
+# Como rodar o projeto
 - Para fazer o projeto rodar você deve rodar o seguinte comando: 
   - npm run dev
 
