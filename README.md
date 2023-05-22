@@ -9,7 +9,7 @@ Codigo ultilizado no desenvolvimento do segundo modulo de Node.js (Back-end) da 
 - Fastfy
 - Knex.js como QueryBiulder
 - Vitest para realizar testes automatizados
-- tsup
+- Tsup Conversor de codigo de TS pra JS
 
 # Como colocar o projeto para funcionar
 - Para fazer o projeto rodar você deve rodar o seguinte comando: 
