@@ -1,0 +1,13 @@
+# Dependencies
+package-lock.json
+node_modules
+
+# Database
+db/*.db
+
+# Enironment
+.env
+.env.test
+
+# Biuld
+biuld
