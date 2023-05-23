@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "[] - O usuário deve poder criar uma nova transação;\r  [] - O usuário deve poder obter um resumo das sua conta;\r  [] - O usuário deve poder listar todas as trsansações que já ocorreram;\r  [] - O usuário deve poder visualizar uma transação",
   "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "knex": "node --no-warnings --loader tsx ./node_modules/knex/bin/cli.js",
