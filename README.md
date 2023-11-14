@@ -2,7 +2,7 @@
 - Codigo ultilizado no desenvolvimento do segundo modulo de Node.js (Back-end) da RockeatSet
 
 # Até o momento estamos ultilizando as seguintes stacks e tecnologias:
-- Estlin para conseguir manter uma formatação limpa
+- Estlint para conseguir manter uma formatação limpa
 - Node com TypeScript
 - ES2020 
 - Squelite
